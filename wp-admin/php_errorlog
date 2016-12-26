@@ -1,0 +1,734 @@
+[13-Dec-2016 13:34:04 UTC] PHP Warning:  require_once(/home/wpdetect/public_html/wpspeed.io/wp-content/themes/kameleon//admin/extern-classes/activate-plugins.php): failed to open stream: No such file or directory in /home/wpdetect/public_html/wpspeed.io/wp-content/themes/kameleon/functions.php on line 7
+[13-Dec-2016 13:34:04 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/wpdetect/public_html/wpspeed.io/wp-content/themes/kameleon//admin/extern-classes/activate-plugins.php' (include_path='.:/usr/local/php56/pear') in /home/wpdetect/public_html/wpspeed.io/wp-content/themes/kameleon/functions.php on line 7
+[13-Dec-2016 17:41:59 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:42:26 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:43:23 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:53:45 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:55:26 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:55:56 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:57:50 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:58:07 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 17:59:46 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:01:13 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:02:07 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:09:19 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:10:32 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:11:40 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:12:38 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:15:53 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:16:19 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:20:07 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[13-Dec-2016 18:20:51 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, call_user_func_array, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, call_user_func, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:41:59 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:43:05 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:45:09 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:46:47 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:47:10 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:48:13 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:49:14 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 01:50:45 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[17-Dec-2016 02:25:16 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/functions/admin.php:134
+Stack trace:
+#0 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/admin/options.php(94): imagify_dismiss_notice('wrong-api-key')
+#1 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(300): _imagify_after_save_options(Array, Array)
+#2 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#3 /home/wpdetect/public_html/wpspeed.io/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/wpdetect/public_html/wpspeed.io/wp-includes/option.php(365): do_action('update_option_i...', Array, Array, 'imagify_setting...')
+#5 /home/wpdetect/public_html/wpspeed.io/wp-includes/option.php(1459): update_option('imagify_setting...', Array, 'no')
+#6 /home/wpdetect/public_html/wpspeed.io/wp-includes/option.php(1067): update_network_option(1, 'imagify_setting...', Array)
+#7 /home/wpdetect in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/functions/admin.php on line 134
+[17-Dec-2016 02:25:20 UTC] PHP Fatal error:  Uncaught Error: [] operator not supported for strings in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/functions/admin.php:134
+Stack trace:
+#0 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/admin/options.php(94): imagify_dismiss_notice('wrong-api-key')
+#1 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(300): _imagify_after_save_options(Array, Array)
+#2 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters('', Array)
+#3 /home/wpdetect/public_html/wpspeed.io/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /home/wpdetect/public_html/wpspeed.io/wp-includes/option.php(365): do_action('update_option_i...', Array, Array, 'imagify_setting...')
+#5 /home/wpdetect/public_html/wpspeed.io/wp-admin/options.php(219): update_option('imagify_setting...', Array)
+#6 {main}
+  thrown in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/functions/admin.php on line 134
+[17-Dec-2016 14:22:32 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post-new.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[19-Dec-2016 00:39:54 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query SELECT SQL_CALC_FOUND_ROWS * FROM gar654_layerslider WHERE flag_hidden = '0' AND flag_deleted = '0' 
+									ORDER BY date_c DESC LIMIT 0, 100 made by do_action('customize_controls_enqueue_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Customize_Widgets->enqueue_scripts, WP_Customize_Widgets->get_available_widgets, WP_Customize_Widgets->get_widget_control, wp_widget_control, WP_Widget->form_callback, LayerSlider_Widget->form, LS_Sliders::find
+[19-Dec-2016 00:49:47 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[19-Dec-2016 00:49:47 UTC] PHP Fatal error:  Uncaught Error: Class '' not found in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php:8
+Stack trace:
+#0 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/helpers/helpers.php(1057): require()
+#1 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/classes/editors/class-vc-backend-editor.php(128): vc_include_template('editors/partial...', Array)
+#2 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(298): Vc_Backend_Editor->renderEditorFooter('')
+#3 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#4 /home/wpdetect/public_html/wpspeed.io/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/wpdetect/public_html/wpspeed.io/wp-admin/admin-footer.php(72): do_action('admin_footer', '')
+#6 /home/wpdetect/public_html/wpspeed.io/wp-admin/post.php(292): include('/home/wpdetect/...')
+#7 {main}
+  thro in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php on line 8
+[19-Dec-2016 00:49:47 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, class 'Requests_Cookie_Jar' does not have a method '' in /home/wpdetect/public_html/wpspeed.io/wp-includes/Requests/Hooks.php on line 62
+[19-Dec-2016 00:49:47 UTC] PHP Warning:  trim(): Invalid '..'-range, '..'-range needs to be incrementing in /home/wpdetect/public_html/wpspeed.io/wp-includes/Requests/IRI.php on line 328
+[19-Dec-2016 00:49:51 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[19-Dec-2016 00:50:00 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[19-Dec-2016 00:50:00 UTC] PHP Fatal error:  Uncaught Error: Class '' not found in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php:8
+Stack trace:
+#0 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/helpers/helpers.php(1057): require()
+#1 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/classes/editors/class-vc-backend-editor.php(128): vc_include_template('editors/partial...', Array)
+#2 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(298): Vc_Backend_Editor->renderEditorFooter('')
+#3 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#4 /home/wpdetect/public_html/wpspeed.io/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/wpdetect/public_html/wpspeed.io/wp-admin/admin-footer.php(72): do_action('admin_footer', '')
+#6 /home/wpdetect/public_html/wpspeed.io/wp-admin/post.php(292): include('/home/wpdetect/...')
+#7 {main}
+  thro in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php on line 8
+[19-Dec-2016 00:50:00 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 7584746181692257432 bytes) in /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-http-requests-hooks.php on line 72
+[19-Dec-2016 00:50:00 UTC] PHP Fatal error:  Unknown: Cannot use output buffering in output buffering display handlers in Unknown on line 0
+[19-Dec-2016 00:50:02 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[20-Dec-2016 01:25:42 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[20-Dec-2016 01:25:42 UTC] PHP Fatal error:  Uncaught Error: Class '' not found in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php:8
+Stack trace:
+#0 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/helpers/helpers.php(1057): require()
+#1 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/classes/editors/class-vc-backend-editor.php(128): vc_include_template('editors/partial...', Array)
+#2 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(298): Vc_Backend_Editor->renderEditorFooter('')
+#3 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#4 /home/wpdetect/public_html/wpspeed.io/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/wpdetect/public_html/wpspeed.io/wp-admin/admin-footer.php(72): do_action('admin_footer', '')
+#6 /home/wpdetect/public_html/wpspeed.io/wp-admin/post.php(292): include('/home/wpdetect/...')
+#7 {main}
+  thro in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php on line 8
+[20-Dec-2016 01:26:44 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[20-Dec-2016 01:26:44 UTC] PHP Fatal error:  Uncaught Error: Class '' not found in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php:8
+Stack trace:
+#0 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/helpers/helpers.php(1057): require()
+#1 /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/classes/editors/class-vc-backend-editor.php(128): vc_include_template('editors/partial...', Array)
+#2 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(298): Vc_Backend_Editor->renderEditorFooter('')
+#3 /home/wpdetect/public_html/wpspeed.io/wp-includes/class-wp-hook.php(323): WP_Hook->apply_filters(NULL, Array)
+#4 /home/wpdetect/public_html/wpspeed.io/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /home/wpdetect/public_html/wpspeed.io/wp-admin/admin-footer.php(72): do_action('admin_footer', '')
+#6 /home/wpdetect/public_html/wpspeed.io/wp-admin/post.php(292): include('/home/wpdetect/...')
+#7 {main}
+  thro in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/js_composer/include/templates/editors/partials/backend_editor_footer.tpl.php on line 8
+[20-Dec-2016 01:30:39 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[20-Dec-2016 01:32:19 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:21:11 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post-new.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:21:34 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:23:35 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:24:27 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:25:25 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:26:12 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:26:16 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:28:14 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:32:03 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:33:07 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:33:16 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:37:50 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:37:59 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:40:30 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:41:33 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:41:38 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:41:55 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:43:53 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:45:00 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:45:06 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:46:29 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:49:08 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:50:46 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:50:56 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:52:00 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:52:34 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:52:59 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:54:42 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:55:11 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[21-Dec-2016 23:55:41 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:01:27 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:01:49 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:04:53 UTC] PHP Warning:  Illegal string offset 'width' in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/classes/class-attachment.php on line 118
+[22-Dec-2016 00:04:53 UTC] PHP Warning:  Illegal string offset 'height' in /home/wpdetect/public_html/wpspeed.io/wp-content/plugins/imagify/inc/classes/class-attachment.php on line 119
+[22-Dec-2016 00:05:15 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:06:39 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:07:51 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:08:21 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:10:09 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:10:28 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:13:48 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:17:55 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:19:58 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:20:41 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:23:22 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:23:40 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:23:49 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:24:57 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:25:42 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:26:19 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:27:10 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:27:39 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:29:59 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:30:12 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:32:53 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:33:38 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:38:45 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:42:36 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:43:29 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:44:01 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:44:38 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:45:26 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:51:26 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:51:35 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:53:08 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:54:36 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:55:47 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 00:55:54 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by require_once('wp-admin/admin.php'), set_current_screen, WP_Screen->set_current_screen, do_action('current_screen'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Frontend_Editor->adminInit, Vc_Frontend_Editor->renderEditor, Vc_Frontend_Editor->enqueueMappedShortcode, WPBMap::getUserShortCodes, WPBMap::generateUserData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 12:04:26 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 12:05:32 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 12:17:32 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 12:18:24 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 14:11:12 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 14:11:32 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 14:55:32 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings
+[22-Dec-2016 14:55:45 UTC] WordPress database error Table 'wpdetect_wpspeed.gar654_layerslider' doesn't exist for query 
+  SELECT id, name, date_c
+  FROM gar654_layerslider
+  WHERE flag_hidden = '0' AND flag_deleted = '0'
+  ORDER BY date_c ASC LIMIT 999
+   made by include('wp-admin/edit-form-advanced.php'), require_once('wp-admin/admin-header.php'), do_action('admin_print_scripts-post.php'), WP_Hook->do_action, WP_Hook->apply_filters, Vc_Shortcodes_Manager->buildShortcodesAssets, WPBMap::getAllShortCodes, WPBMap::generateData, WPBMap::setElementSettings, Vc_Vendor_Layerslider->addShortcodeSettings

@@ -1,0 +1,73 @@
+2016-11-07 00:27:05 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-11-07 00:27:05 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-11-07 00:27:05 | Set timer to disable Memcached option in wp-admin after 5 minutes
+2016-11-12 00:27:47 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-11-12 00:27:47 | Memcached connection has been established successfully and object-cache.php file has been created. The Memcached is now working and the timer has been reset.
+2016-11-12 23:44:06 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-11-12 23:44:06 | Memcached connection has been established successfully and object-cache.php file has been created. The Memcached is now working and the timer has been reset.
+2016-12-16 22:23:30 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:23:30 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:23:30 | Set timer to disable Memcached option in wp-admin after 5 minutes
+2016-12-16 22:23:33 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:23:33 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:23:34 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:23:34 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:23:35 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:23:35 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:01 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:01 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:02 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:02 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:06 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:06 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:29 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:29 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:31 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:31 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:32 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:32 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:37 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:37 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:24:54 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:24:54 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:19 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:19 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:21 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:21 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:28 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:28 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:32 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:32 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:32 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:32 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:35 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:35 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:38 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:38 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:46 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:46 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:52 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:52 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:25:55 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:25:55 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:11 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:11 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:13 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:13 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:27 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:27 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:27 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:27 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:30 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:30 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:31 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:31 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:39 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:39 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:26:44 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:26:44 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:27:14 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:27:14 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:28:40 | Memcached option in wp-admin is enabled, but object-cache.php file does not exist or Memcached connection can't be established. Trying to establish new connection and create object-cache.php file.
+2016-12-16 22:28:40 | Creating of new object-cache.php failed or Memcached connection can't be established.
+2016-12-16 22:28:40 | Disabling Memcached option in wp-admin panel
